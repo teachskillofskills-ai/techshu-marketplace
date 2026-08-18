@@ -1,0 +1,39 @@
+{
+  "name": "techshu",
+  "owner": {
+    "name": "Indus Net TechShu Digital Pvt. Ltd."
+  },
+  "description": "TechShu plugin marketplace - marketing plugins for Claude Code, Cowork, Codex, Cursor, Grok and Hermes.",
+  "plugins": [
+    {
+      "name": "digital-marketing-pro",
+      "description": "Open-source AI marketing plugin for agencies - 163 skills, 24 agents, 12-Part Strategy Flow, EU AI Act ready. MIT-licensed, (c) Indranil Banerjee.",
+      "category": "marketing",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/indranilbanerjee/digital-marketing-pro.git"
+      },
+      "homepage": "https://github.com/indranilbanerjee/digital-marketing-pro"
+    },
+    {
+      "name": "contentforge",
+      "description": "Open-source content lifecycle plugin - research, fact-check, draft, humanize and deliver publication-ready long-form content. MIT-licensed, (c) Indranil Banerjee.",
+      "category": "marketing",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/indranilbanerjee/contentforge.git"
+      },
+      "homepage": "https://github.com/indranilbanerjee/contentforge"
+    },
+    {
+      "name": "socialforge",
+      "description": "Open-source social production plugin - turns a content calendar into on-brand copy, images and video with compliance and human approval. MIT-licensed, (c) Indranil Banerjee.",
+      "category": "marketing",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/indranilbanerjee/socialforge.git"
+      },
+      "homepage": "https://github.com/indranilbanerjee/socialforge"
+    }
+  ]
+}
