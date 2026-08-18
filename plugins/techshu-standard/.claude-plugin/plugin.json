@@ -1,0 +1,16 @@
+{
+  "name": "techshu-standard",
+  "displayName": "TechShu Standard Set",
+  "version": "0.2.0",
+  "description": "Standard plugin set for TechShu delivery teams.",
+  "author": {
+    "name": "Indus Net TechShu Digital Pvt. Ltd.",
+    "url": "https://techshu.ai"
+  },
+  "dependencies": [
+    "digital-marketing-pro",
+    "contentforge",
+    "socialforge",
+    "techshu-brand"
+  ]
+}
