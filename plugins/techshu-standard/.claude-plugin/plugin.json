@@ -1,0 +1,13 @@
+{
+  "name": "techshu-standard",
+  "displayName": "TechShu Standard Set",
+  "version": "0.1.0",
+  "description": "Standard plugin set for TechShu delivery teams.",
+  "author": {
+    "name": "Indus Net TechShu Digital Pvt. Ltd.",
+    "url": "https://techshu.ai"
+  },
+  "dependencies": [
+    "techshu-brand"
+  ]
+}
