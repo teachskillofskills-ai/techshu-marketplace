@@ -1,0 +1,51 @@
+{
+  "name": "techshu-marketing-plugins",
+  "interface": {
+    "displayName": "TechShu Marketing Plugins",
+    "shortDescription": "Marketing plugins used at TechShu - Digital Marketing Pro, ContentForge, SocialForge. MIT-licensed.",
+    "developerName": "Indus Net TechShu Digital Pvt. Ltd.",
+    "category": "Productivity",
+    "websiteURL": "https://techshu.ai"
+  },
+  "plugins": [
+    {
+      "name": "digital-marketing-pro",
+      "source": {
+        "source": "github",
+        "repo": "indranilbanerjee/digital-marketing-pro"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity",
+      "description": "Open-source AI marketing plugin for agencies - 163 skills, 24 agents, 12-Part Strategy Flow, EU AI Act ready. MIT-licensed, (c) Indranil Banerjee."
+    },
+    {
+      "name": "contentforge",
+      "source": {
+        "source": "github",
+        "repo": "indranilbanerjee/contentforge"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity",
+      "description": "Open-source content lifecycle plugin - research, fact-check, draft, humanize and deliver publication-ready long-form content. MIT-licensed, (c) Indranil Banerjee."
+    },
+    {
+      "name": "socialforge",
+      "source": {
+        "source": "github",
+        "repo": "indranilbanerjee/socialforge"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity",
+      "description": "Open-source social production plugin - turns a content calendar into on-brand copy, images and video with compliance and human approval. MIT-licensed, (c) Indranil Banerjee."
+    }
+  ]
+}
