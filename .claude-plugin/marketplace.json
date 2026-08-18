@@ -1,0 +1,30 @@
+{
+  "name": "techshu",
+  "owner": {
+    "name": "Indus Net TechShu Digital Pvt. Ltd.",
+    "url": "https://techshu.ai"
+  },
+  "description": "Internal AI plugin marketplace for TechShu delivery teams",
+  "version": "0.1.0",
+  "metadata": { "pluginRoot": "./plugins" },
+  "plugins": [
+    {
+      "name": "techshu-brand",
+      "source": "./techshu-brand",
+      "description": "TechShu brand voice, delivery SOPs and compliance guardrails. Layers on top of the content and marketing plugins.",
+      "version": "0.1.0",
+      "category": "brand",
+      "tags": ["techshu", "brand", "sop", "compliance"],
+      "author": { "name": "Indus Net TechShu Digital Pvt. Ltd." }
+    },
+    {
+      "name": "techshu-standard",
+      "source": "./techshu-standard",
+      "description": "Standard plugin set for TechShu delivery teams. Installs the full toolchain in one step.",
+      "version": "0.1.0",
+      "category": "bundle",
+      "tags": ["techshu", "bundle"],
+      "author": { "name": "Indus Net TechShu Digital Pvt. Ltd." }
+    }
+  ]
+}
