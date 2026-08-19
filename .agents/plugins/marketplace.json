@@ -12,40 +12,40 @@
       "name": "digital-marketing-pro",
       "source": {
         "source": "github",
-        "repo": "indranilbanerjee/digital-marketing-pro"
+        "repo": "teachskillofskills-ai/DigitalMarketingPro-techshu"
       },
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "ON_USE"
       },
       "category": "Productivity",
-      "description": "Open-source AI marketing plugin for agencies - 163 skills, 24 agents, 12-Part Strategy Flow, EU AI Act ready. MIT-licensed, (c) Indranil Banerjee."
+      "description": "AI marketing operating system for TechShu delivery teams - strategy, SEO, AEO/GEO, paid media, content, CRM and analytics. 163 skills, 24 agents. MIT licensed."
     },
     {
       "name": "contentforge",
       "source": {
         "source": "github",
-        "repo": "indranilbanerjee/contentforge"
+        "repo": "teachskillofskills-ai/ContentForge-techshu"
       },
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "ON_USE"
       },
       "category": "Productivity",
-      "description": "Open-source content lifecycle plugin - research, fact-check, draft, humanize and deliver publication-ready long-form content. MIT-licensed, (c) Indranil Banerjee."
+      "description": "Editorial pipeline for TechShu delivery teams - research, fact-check, draft, humanize and deliver publication-ready long-form content. 22 skills, 13 agents, 10 quality gates. MIT licensed."
     },
     {
       "name": "socialforge",
       "source": {
         "source": "github",
-        "repo": "indranilbanerjee/socialforge"
+        "repo": "teachskillofskills-ai/SocialForge-techshu"
       },
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "ON_USE"
       },
       "category": "Productivity",
-      "description": "Open-source social production plugin - turns a content calendar into on-brand copy, images and video with compliance and human approval. MIT-licensed, (c) Indranil Banerjee."
+      "description": "Social production for TechShu delivery teams - turns a content calendar into on-brand copy, images and video with compliance and human approval. MIT licensed."
     }
   ]
 }

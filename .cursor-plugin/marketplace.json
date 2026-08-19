@@ -5,25 +5,25 @@
   },
   "metadata": {
     "description": "TechShu plugin marketplace - marketing plugins for Claude Code, Cowork, Codex, Cursor, Grok and Hermes.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "homepage": "https://github.com/teachskillofskills-ai/techshu-marketplace",
     "license": "MIT"
   },
   "plugins": [
     {
       "name": "digital-marketing-pro",
-      "source": "https://github.com/indranilbanerjee/digital-marketing-pro",
-      "description": "Open-source AI marketing plugin for agencies - 163 skills, 24 agents, 12-Part Strategy Flow, EU AI Act ready. MIT-licensed, (c) Indranil Banerjee."
+      "source": "https://github.com/teachskillofskills-ai/DigitalMarketingPro-techshu",
+      "description": "AI marketing operating system for TechShu delivery teams - strategy, SEO, AEO/GEO, paid media, content, CRM and analytics. 163 skills, 24 agents. MIT licensed."
     },
     {
       "name": "contentforge",
-      "source": "https://github.com/indranilbanerjee/contentforge",
-      "description": "Open-source content lifecycle plugin - research, fact-check, draft, humanize and deliver publication-ready long-form content. MIT-licensed, (c) Indranil Banerjee."
+      "source": "https://github.com/teachskillofskills-ai/ContentForge-techshu",
+      "description": "Editorial pipeline for TechShu delivery teams - research, fact-check, draft, humanize and deliver publication-ready long-form content. 22 skills, 13 agents, 10 quality gates. MIT licensed."
     },
     {
       "name": "socialforge",
-      "source": "https://github.com/indranilbanerjee/socialforge",
-      "description": "Open-source social production plugin - turns a content calendar into on-brand copy, images and video with compliance and human approval. MIT-licensed, (c) Indranil Banerjee."
+      "source": "https://github.com/teachskillofskills-ai/SocialForge-techshu",
+      "description": "Social production for TechShu delivery teams - turns a content calendar into on-brand copy, images and video with compliance and human approval. MIT licensed."
     }
   ]
 }

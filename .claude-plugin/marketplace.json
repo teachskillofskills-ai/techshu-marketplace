@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "TechShu plugin marketplace - marketing plugins for Claude Code, Cowork, Codex, Cursor, Grok and Hermes.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "homepage": "https://github.com/teachskillofskills-ai/techshu-marketplace",
     "license": "MIT"
   },
@@ -15,9 +15,9 @@
       "name": "digital-marketing-pro",
       "source": {
         "source": "github",
-        "repo": "indranilbanerjee/digital-marketing-pro"
+        "repo": "teachskillofskills-ai/DigitalMarketingPro-techshu"
       },
-      "description": "Open-source AI marketing plugin for agencies - 163 skills, 24 agents, 12-Part Strategy Flow, EU AI Act ready. MIT-licensed, (c) Indranil Banerjee.",
+      "description": "AI marketing operating system for TechShu delivery teams - strategy, SEO, AEO/GEO, paid media, content, CRM and analytics. 163 skills, 24 agents. MIT licensed.",
       "category": "marketing",
       "tags": [
         "marketing",
@@ -28,17 +28,17 @@
       ],
       "license": "MIT",
       "author": {
-        "name": "Indranil Banerjee",
-        "url": "https://github.com/indranilbanerjee"
+        "name": "Indus Net TechShu Digital Pvt. Ltd.",
+        "url": "https://techshu.ai"
       }
     },
     {
       "name": "contentforge",
       "source": {
         "source": "github",
-        "repo": "indranilbanerjee/contentforge"
+        "repo": "teachskillofskills-ai/ContentForge-techshu"
       },
-      "description": "Open-source content lifecycle plugin - research, fact-check, draft, humanize and deliver publication-ready long-form content. MIT-licensed, (c) Indranil Banerjee.",
+      "description": "Editorial pipeline for TechShu delivery teams - research, fact-check, draft, humanize and deliver publication-ready long-form content. 22 skills, 13 agents, 10 quality gates. MIT licensed.",
       "category": "marketing",
       "tags": [
         "content",
@@ -48,17 +48,17 @@
       ],
       "license": "MIT",
       "author": {
-        "name": "Indranil Banerjee",
-        "url": "https://github.com/indranilbanerjee"
+        "name": "Indus Net TechShu Digital Pvt. Ltd.",
+        "url": "https://techshu.ai"
       }
     },
     {
       "name": "socialforge",
       "source": {
         "source": "github",
-        "repo": "indranilbanerjee/socialforge"
+        "repo": "teachskillofskills-ai/SocialForge-techshu"
       },
-      "description": "Open-source social production plugin - turns a content calendar into on-brand copy, images and video with compliance and human approval. MIT-licensed, (c) Indranil Banerjee.",
+      "description": "Social production for TechShu delivery teams - turns a content calendar into on-brand copy, images and video with compliance and human approval. MIT licensed.",
       "category": "marketing",
       "tags": [
         "social-media",
@@ -67,8 +67,8 @@
       ],
       "license": "MIT",
       "author": {
-        "name": "Indranil Banerjee",
-        "url": "https://github.com/indranilbanerjee"
+        "name": "Indus Net TechShu Digital Pvt. Ltd.",
+        "url": "https://techshu.ai"
       }
     }
   ]

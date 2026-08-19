@@ -41,12 +41,19 @@ from their own individual agent account.
 
 ## Source and licence
 
-These are MIT-licensed open-source plugins by Indranil Banerjee, maintained at
-[github.com/indranilbanerjee](https://github.com/indranilbanerjee) and also
-published through [neels-plugins](https://github.com/indranilbanerjee/neels-plugins).
+These plugins are TechShu's own line, maintained by the TechShu AI team at
+Indus Net TechShu Digital Pvt. Ltd. This marketplace points at TechShu's
+repositories, so the team always gets TechShu's current release with no copies
+to keep in sync.
 
-This marketplace points at those upstream repositories, so the team always gets
-the current release with no copies to keep in sync.
+They are MIT licensed and were originally created by Indranil Banerjee;
+TechShu's versions are maintained separately.
+
+## Where to run production work
+
+Hooks and sub-agents run only in **Claude Cowork** - Claude web chat and Claude
+Desktop load the skills but not those two features. Day-to-day drafting is fine
+anywhere; production work belongs in Cowork.
 
 ## Configuration
 
