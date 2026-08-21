@@ -12,6 +12,25 @@
   },
   "plugins": [
     {
+      "name": "socialforge",
+      "source": {
+        "source": "github",
+        "repo": "teachskillofskills-ai/SocialForge-techshu"
+      },
+      "description": "Social production for TechShu delivery teams - turns a content calendar into on-brand copy, images and video with compliance and human approval. MIT licensed.",
+      "category": "marketing",
+      "tags": [
+        "social-media",
+        "content-calendar",
+        "creative"
+      ],
+      "license": "MIT",
+      "author": {
+        "name": "Indus Net TechShu Digital Pvt. Ltd.",
+        "url": "https://techshu.ai"
+      }
+    },
+    {
       "name": "digital-marketing-pro",
       "source": {
         "source": "github",
@@ -45,25 +64,6 @@
         "seo",
         "fact-checking",
         "editorial"
-      ],
-      "license": "MIT",
-      "author": {
-        "name": "Indus Net TechShu Digital Pvt. Ltd.",
-        "url": "https://techshu.ai"
-      }
-    },
-    {
-      "name": "socialforge",
-      "source": {
-        "source": "github",
-        "repo": "teachskillofskills-ai/SocialForge-techshu"
-      },
-      "description": "Social production for TechShu delivery teams - turns a content calendar into on-brand copy, images and video with compliance and human approval. MIT licensed.",
-      "category": "marketing",
-      "tags": [
-        "social-media",
-        "content-calendar",
-        "creative"
       ],
       "license": "MIT",
       "author": {
